@@ -1,4 +1,4 @@
-# GD-UAP
+# GD-UAP   Classification. Segmentation. Depth Estimation.
 
 <center> <img src="GD-UAP-overview-latest-variation.png" alt="Overview Image"> </center>
   
